@@ -1,3 +1,5 @@
+![App Screenshot](Image.png)
+
 DustBuster
 
 DustBuster is a simple Python application designed to clear temporary files and prefetch files from your system to help free up storage space and improve performance.
