@@ -9,17 +9,6 @@ Features:
 - Lightweight and easy-to-use GUI interface built with PyQt5.
 - Simple click-to-clear functionality.
 
-Prerequisites:
-- Python 3.x should be installed on your computer.
-- You need to install PyQt5 to run the application.
-
-To Install:
-1. Clone or download the repository.
-2. Install the required dependencies:
-   pip install pyqt5
-3. Run the application:
-   python dust_buster.py
-
 Executable Version:
 1. Download Dust Buster v1.0.exe from the Releases section.
 2. Run the .exe file to start the app.
